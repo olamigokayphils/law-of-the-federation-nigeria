@@ -1,0 +1,25 @@
+{
+  "name": "laws-of-the-federation-nigeria",
+  "description": "The Laws of the Federation of Nigeria comprises all the laws in existence in Nigeria. [WIP] This repo was created to train an AI model",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olamigokayphils/laws-of-the-federation-nigeria.git"
+  },
+  "author": "Ancla Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olamigokayphils/laws-of-the-federation-nigeria/issues"
+  },
+  "homepage": "https://github.com/olamigokayphils/laws-of-the-federation-nigeria#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1"
+  }
+}
